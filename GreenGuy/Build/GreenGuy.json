@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GreenGuy.data.unityweb",
+"asmCodeUrl": "GreenGuy.asm.code.unityweb",
+"asmMemoryUrl": "GreenGuy.asm.memory.unityweb",
+"asmFrameworkUrl": "GreenGuy.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
